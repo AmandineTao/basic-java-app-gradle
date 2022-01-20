@@ -1,2 +1,2 @@
 # java-gradle
-java application with gradle
+build and test java application with gradle
